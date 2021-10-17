@@ -45,6 +45,13 @@ i{
 .body{
     min-height: 100vh;
 }
+.item:hover{
+    background-color: #b2bec3;
+}
+.items {
+    background-color: skyble;
+    color:white;
+}
 .footer{
     margin-top: 24px;
     padding: 12px;
